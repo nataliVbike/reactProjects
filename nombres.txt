@@ -1,22 +1,22 @@
-Natalia López 02-02-1972
-Juan Pérez 15-05-1980
-María Martínez 10-12-1975
-Carlos Rodríguez 25-09-1990
-Laura García 20-03-1988
-Pedro Sánchez 03-07-1983
-Andrea Ramírez 18-11-1979
-Miguel González 05-08-1985
-Sofia Díaz 29-01-1992
-David Fernández 14-06-1977
+Natalia Lopez 02-02-1972
+Juan Perez 15-05-1980
+Maria Martínez 10-12-1975
+Carlos Rodriguez 25-09-1990
+Laura Garcia 20-03-1988
+Pedro Sanchez 03-07-1983
+Andrea Ramirez 18-11-1979
+Miguel Gonzalez 05-08-1985
+Sofiaa Díaz 29-01-1992
+David Fernandez 14-06-1977
 Ana Torres 09-04-1982
-José Ruiz 22-10-1986
+Jose Ruiz 22-10-1986
 Paula Navarro 27-07-1995
 Javier Romero 08-02-1974
-Marta Jiménez 01-09-1981
+Marta Jimenez 01-09-1981
 Alejandro Ruiz 19-04-1990
-Carolina García 12-11-1988
-Daniel Pérez 07-06-1983
+Carolina Garcia 12-11-1988
+Daniel Perez 07-06-1983
 Lucia Martínez 30-12-1976
-Sergio Rodríguez 23-05-1984
+Sergio Rodriguez 23-05-1984
 
 
