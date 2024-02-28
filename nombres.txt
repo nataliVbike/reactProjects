@@ -1,12 +1,12 @@
 Natalia Lopez 02-02-1972
 Juan Perez 15-05-1980
-Maria Martínez 10-12-1975
+Maria Martinez 10-12-1975
 Carlos Rodriguez 25-09-1990
 Laura Garcia 20-03-1988
 Pedro Sanchez 03-07-1983
 Andrea Ramirez 18-11-1979
 Miguel Gonzalez 05-08-1985
-Sofiaa Díaz 29-01-1992
+Sofiaa Diaz 29-01-1992
 David Fernandez 14-06-1977
 Ana Torres 09-04-1982
 Jose Ruiz 22-10-1986
